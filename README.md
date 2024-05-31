@@ -9,7 +9,7 @@ The Hillsides are
 
 | Splayed|<img width=1900/>|
 |:-----------|:----------------|
-| [Hillside 46](hillside46): Like a splayed Feris Sweep on steroids.     | ![Hillside 46](https://github.com/mmccoyd/hillside/wiki/image/46/hill46_photo_600.png) |
+| [Hillside 46](hillside46): Like a splayed Feris Sweep on steroids.     | ![Hillside 46](https://ibb.co/mqVd69G) |
 
 Their specific differences are:
 
